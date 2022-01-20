@@ -1,3 +1,27 @@
+p,h1,h2,h3,h4,h5,h6{
+  font-family: 'Sarabun', sans-serif;
+}
+span{
+  font-family: 'Sarabun', sans-serif;
+}
+.dropdown-menu{
+  font-family: 'Sarabun', sans-serif;
+}
+.nav-item{
+  font-family: 'Sarabun', sans-serif;
+}
+.nav-link{
+  font-family: 'Sarabun', sans-serif;
+}
+.navbar-brand{
+  font-family: 'Sarabun', sans-serif;
+}
+.undeline{
+  width: 200px;
+  height: 5px;
+  background-color: purple;
+}
+
 .App {
   text-align: center;
 }

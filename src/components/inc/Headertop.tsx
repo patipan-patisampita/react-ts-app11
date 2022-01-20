@@ -17,6 +17,7 @@ class Headertop extends Component{
                             <div className="col-md-11">
                                 <div style={{width:'18rem'}}>
                                     <h4>วิทยาลัยเทคนิคตราด</h4>
+                                    <div className="undeline mx-auto my-2"></div>
                                     <h4>Trat Technical College</h4>
                                 </div>
                             </div>

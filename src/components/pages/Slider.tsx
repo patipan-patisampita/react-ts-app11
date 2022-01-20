@@ -40,10 +40,10 @@ const Slider = () => {
                     </div>
                 </div>
 
-                <div className="row">
+                <div className="row mt-2">
                     <div className="col-md-12">
                         <h3>
-                            <span className="text-succes">“เทคนิคตราดโฉมใหม่ ใส่ใจบุตรหลาน จัดการศึกษา เพื่อการมีงานทำ” </span>
+                            <span className="text-succes fs-4">“เทคนิคตราดโฉมใหม่ ใส่ใจบุตรหลาน จัดการศึกษา เพื่อการมีงานทำ” </span>
                         </h3>
                     </div>
                 </div>
